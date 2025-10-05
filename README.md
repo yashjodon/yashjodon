@@ -60,9 +60,10 @@ Quick facts
 
 ---
 
+
 ## 📫 Connect
 <p align="center">
-  <a href="www.linkedin.com/in/yashjodon"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Yashjodon"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="https://tryhackme.com/p/Yashjodon"><img src="https://img.shields.io/badge/TryHackMe-%23FF4A4A.svg?style=for-the-badge" alt="THM" /></a>
   &nbsp;
