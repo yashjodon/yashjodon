@@ -1,8 +1,16 @@
-<!-- HEADER / HERO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=700&color=2B303B&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B+I'm+YashJodon;Cyber+Security+%26++Developer;Top+10%25+on+TryHackMe+%F0%9F%8E%89" alt="typing" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2B303B&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Yash+Jodon;Cyber+Security+Enthusiast+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;Top+10%25+on+TryHackMe+%F0%9F%8E%89;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
+    </td>
+    <td>
+      <!-- Replace the src below with actual GIF or PNG URL -->
+      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Cyber GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="status" />
   <img src="https://img.shields.io/badge/Top-9%25_TryHackMe-orange?style=for-the-badge" alt="tryhackme top 9%" />
