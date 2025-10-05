@@ -13,8 +13,8 @@
 ---
 
 ## 👋 About Me
-I’m Nitin — a Cyber Security enthusiast and Full Stack learner. I build secure web apps, practise pentesting on TryHackMe, and love Linux.  
-Current highlight: Ranked in the Top 9% on TryHackMe 🎉
+I’m Yash Jodon — a Cyber Security enthusiast and Full Stack learner. I build secure web apps, practise pentesting on TryHackMe, and love Linux.  
+Current highlight: Ranked in the Top 10% on TryHackMe 🎉
 
 Quick facts
 - 🔭 Building secure, privacy-respecting web apps  
@@ -33,7 +33,7 @@ Quick facts
 
 ## 🔥 Highlights & Badges
 <p align="center">
-  <a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME">
+  <a href="https://tryhackme.com/p/YashJodon">
     <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_TRYHACKME_USERNAME.png" alt="TryHackMe Badge" height="80"/>
   </a>
   &nbsp;
@@ -44,9 +44,9 @@ Quick facts
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img alt="Nitin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img alt="Yash's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yashjodon&show_icons=true&theme=tokyonight&count_private=true" />
   &nbsp;
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjodon&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -54,9 +54,9 @@ Quick facts
 ## 💼 Featured Projects
 > Short, focused project cards — add repo links and a 1-line description.
 
-- [Secure-Notes](https://github.com/YOUR_GITHUB_USERNAME/secure-notes) — Encrypted note app (Node.js + AES) — stores only encrypted blobs.  
-- [CTF-Scripts](https://github.com/YOUR_GITHUB_USERNAME/ctf-scripts) — Useful scripts for CTFs & recon (nmap, enum, auto-report).  
-- [Portfolio](https://github.com/YOUR_GITHUB_USERNAME/portfolio) — Minimal static portfolio (React + Tailwind).
+- [Secure-Notes](https://github.com/yashjodon/secure-notes) — Encrypted note app (Node.js + AES) — stores only encrypted blobs.  
+- [CTF-Scripts](https://github.com/Yashjodon/ctf-scripts) — Useful scripts for CTFs & recon (nmap, enum, auto-report).  
+- [Portfolio](https://github.com/yashjodon/portfolio) — Minimal static portfolio (React + Tailwind).
 
 ---
 
@@ -64,23 +64,11 @@ Quick facts
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-%23FF4A4A.svg?style=for-the-badge" alt="THM" /></a>
+  <a href="https://tryhackme.com/p/Yashjodon"><img src="https://img.shields.io/badge/TryHackMe-%23FF4A4A.svg?style=for-the-badge" alt="THM" /></a>
   &nbsp;
   <a href="mailto:yashsec@protonmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=for-the-badge&logo=gmail" alt="email" /></a>
 </p>
 
 ---
 
-## 🧩 How to use this README
-1. Create a repository with the same name as your GitHub username (example: Nitin123), and add this README.md.  
-2. Replace placeholders:
-   - YOUR_GITHUB_USERNAME → your GitHub username  
-   - YOUR_TRYHACKME_USERNAME → your TryHackMe username  
-   - YOUR_LINKEDIN → your LinkedIn id (after linkedin.com/in/)  
-3. If TryHackMe badge doesn't load, create one via TryHackMe profile settings or remove that line.  
-4. Commit → push → visit your profile. Enjoy the new look ✨
 
----
-
-### ✨ Pro tip
-If you want a custom SVG banner (gradient + your handle) or I make a matching profile picture + banner set, bol do — bana dungi ready-to-upload images.
